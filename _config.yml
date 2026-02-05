@@ -16,16 +16,16 @@ email: bodasame27724@gmail.com
 authors:
   Aranza:
     name: Aranza
-    display_name: Mi vida
+    display_name: Aranza
     avatar: 'assets/images/avatar-sal.png'
     email: bodasame27724@gmail.com
     description: "Alguien que te ama mucho y quiere compartir sus memorias contigo."
   Boris:
     name: Boris
-    display_name: Mi amor    
+    display_name: Bochan   
     avatar: 'assets/images/avatar.png'
     email: bodasame27724@gmail.com
-    description: "wada wada wada"
+    description: "Alguien que cree que no sé nada de ella, pero en realidad sé mucho."
 
 # Plugins
 plugins:
