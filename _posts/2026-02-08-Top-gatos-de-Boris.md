@@ -19,8 +19,11 @@ A lo largo de su corta vida, Boris ha obtenido una cantidad impresionante de gat
 ## Suga
 ![Suga: Mi favorita]({{ "/assets/images/Gatos/Suga.jpeg" | relative_url }})
 
+Definitivamente es mi favortita.  Es ansiosa, tímida e inocente, sin embargo, en la primera vez que llegué a estar en casa de Boris por +30 min bajó a mí y me amó. 
 
-Esto es una prueba para ver cómo se ve y si lso acentos se ven también 
+Basicamente me delcaró su amor infinito y yolo acepté. Aparte es color negro y a mi me gusta el color negro. Es de tamaño bolsa, sí sería una gata que te puedas llevar en la bolsa a la escuela y se comportaría bien. 
+
+Tiene puntos extra porque es una de las dos gatas legítimas de esta lista. Larga vida a Suga. 
 
 ## Yoongi
 ## Sasha
