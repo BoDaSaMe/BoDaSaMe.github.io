@@ -17,7 +17,8 @@ A lo largo de su corta vida, Boris ha obtenido una cantidad impresionante de gat
 * Procedencia 
 
 ## Suga
-![Suga: Mi favorita](/assets/images/Gatos/Suga.jpg)
+![Suga: Mi favorita]({{ "/assets/images/Gatos/Suga.jpg" | relative_url }})
+
 
 Esto es una prueba para ver cómo se ve y si lso acentos se ven también 
 
