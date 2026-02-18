@@ -27,12 +27,16 @@ Es de tamaño bolsa, sí sería una gata que te puedas llevar en la bolsa a la e
 
 Tiene puntos extra porque es una de las dos gatas legítimas de esta lista. Larga vida a Suga. 
 
+Tamaño: Magnifico. Color: Negro (mi favorita). Procedencia: Mi corazón. 
+
 ## Yoongi
 ![Yoongi: la otra belleza]({{ "/assets/images/Gatos/Yoongi.jpeg" | relative_url }})
 
 LA OOOOOOOOTRA LEGÍTIMA. Top 1 junto a su hermana por la simple razón de que son tuyas y las amo. Sin embargo, Yoongi siempre me viene a saludar por audio. Tiene un tamaño bastante grande entonces tiene para regalar caricias, amor y cariño. 
 
 Es color gris lo cual le resta puntos porque el gris es el negro que no pudo ser. 
+
+Tamaño: Big ass with a big heart. Color: el negro que no pudo ser. Procedencia: Abajo de la cama. 
 
 ## Sasha
 ![Sasha: la media hermana]({{ "/assets/images/Gatos/Sasha.jpeg" | relative_url }})
@@ -42,27 +46,30 @@ Es preciosa porque se deja agarrar y me la mostraton cuando estaba en el coche a
 
 Tiene un bonus pequeño porque no es fácil aguantar a sus primas Yoongi y Suga. Sé que no se ven mucho, pero ya con saber que tu tía es Boris es más que suficiente sufrimiento. 
 
-Tiene buen tamaño, es pachoncita. Es color tigrito y su procedencia es familiar. 
+Tamaño: Pachoncita. Color: tigrito Procedencia: familiar. 
 
 ## Guapo
 ![Guapo: ¿de dónde?]({{ "/assets/images/Gatos/Guapo.jpeg" | relative_url }})
 
 De guapo este cabrón no tiene nada. Ojo azúl, wero y pose de macho al sigilo. ¿Saben a quién más describen así? a los estadounidenses. 
 
-Por ello, he decidido que es menonita, prefiero decir eso que que tenemos un gringo en nuestras filas. Este wey no tiene sabor ni color. ¿Procedencia? Quesolandia. 
+Por ello, he decidido que es menonita, prefiero decir eso que que tenemos un gringo en nuestras filas. Este wey no tiene sabor ni color. 
+
+Tamaño: meh. Color: SIN COLOR. Procedencia: U S A     U S A 
 
 ## Cabezon 
 ![Cabezon: miarchienemigo]({{ "/assets/images/Gatos/Cabezon.jpeg" | relative_url }})
 
-A este gato lo único que le tengo es odio. MIRA NOMAS QUE IR A PELEAR A LAS BEBES HERMOSAS. 
+A este gato lo único que le tengo es odio. MIRA NOMAS QUE IR A PELEAR A LAS BEBÉS HERMOSAS. LES HIZO DAÑO. 
 
-LES HIZO DAÑO. Mi peor enemigo. 
+Mi peor enemigo. 
 
 "Pero es que no sabía, él solo tenía hambre" ¿YYYYYY? el odio que le tengo es incomensurable. No puede ser medido y ni lo será. 
 
-Se metió en casa ajena, come su comida, les hizo daño, hizo que se deconfianzan entre Yoongi y Suga, NAAAAAMBRE. SAQUENLO DE AQUÍ. Aparte tiene cara de mamón, se parece el bueno para nada del Tom y aparte no tiene nalgas. 
+Se metió en casa ajena, come su comida, les hizo daño, hizo que se deconfianzan entre Yoongi y Suga, NAAAAAMBRE. SAQUENLO DE AQUÍ. Aparte tiene cara de mamón, se parece el bueno para nada del Tom y no tiene nalgas. 
 
 Tamaño: de huevos chiquitos. Color: ojete. Procedencia: No sé, pero que se regrese. 
+
 ## Puki
 
 ![Puki: TAN LINDOOOO]({{ "/assets/images/Gatos/Puki.jpeg" | relative_url }})
