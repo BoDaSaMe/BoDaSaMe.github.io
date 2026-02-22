@@ -36,7 +36,7 @@ Si quieres ya no te muestro mi amor nunca jamás.
 
 ## LEGO Gato Tuxedo
 
-![Lego]({{ "/assets/images/ListaRegalos/LegoTux.png" | relative_url }})
+![Lego]({{ "/assets/images/ListaRegalos/LegoTux.webp" | relative_url }})
 
 Es un lego de un gato. Dime tú como no voy a querer comprártelo. Lo podríamos armar juntas y le podríamos poner estampas para decorarlo y siempre tenerlo en el cuarto o en la sala. 
 
