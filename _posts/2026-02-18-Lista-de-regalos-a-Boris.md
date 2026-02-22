@@ -3,7 +3,7 @@ layout: post
 title:  "Lista de regalos a Boris"
 author: Aranza
 categories: [ Regalos ]
-image: assets/images/regalos.jpg
+image: assets/images/regalos.png
 ---
 
 A lo largo de los años me has dicho muchas cosas que te gusaría tener y yo, como buena novia, los he ido anotando en mi teléfono. También si veo algo en internet que me gustaría que tuvieras o que se te vería lindo lo anoto para tener opciones de regalos. 
