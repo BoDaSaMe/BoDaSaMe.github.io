@@ -4,7 +4,7 @@ title:  "Quiero darte una clase de qué es Ciencia de Datos"
 author: Aranza
 categories: [ Educación, Tecnología ]
 tags: [ CDA ]
-image: "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+image: assets/images/CDA.jpg
 ---
 
 De verdad a veces me sorprende lo poco que entiendes qué es lo que hago con mi carrera y todas las cosas que sé hacer. Sé que no tienes que saberlo porque sabes de medicina, pero me encantaría que mi esposa pueda describir qué es lo que hago cuando le preguntan. 
