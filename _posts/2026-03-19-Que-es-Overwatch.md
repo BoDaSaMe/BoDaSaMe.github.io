@@ -120,7 +120,7 @@ Está guapa, está mamada, es una soldado egipcia y su mamá está que te cagas 
 
  Es muy muy buena para mantener presión de puntos y defensa de cargas. Aparte historicamente es una mujer excesivamente inteligente y me encanta. 
 
- ### Healers
+### Healers
 
 Quiero hacer notar que la mayoría del tiempo yo juego healer y los juego por dos razones en particular: 
 
