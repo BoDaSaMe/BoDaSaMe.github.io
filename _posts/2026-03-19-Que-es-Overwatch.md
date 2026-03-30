@@ -152,9 +152,9 @@ Jugar Ana es jugar a ser franco y a las extrategias y a mi me gusta mucho de eso
 * Lifeweaver 
  ![Lifeweaver]({{ "/assets/images/OW/Healers/Lifeweaver.png" | relative_url }})  
 
- Esta bonito, es pansexual, es extremadamente listo y si historia de personaje es "ah si, tuve que huir de mi pais porque querían usar mi ciencia para el mal". A parte, HE IS A DIVA. 
+Esta bonito, es pansexual, es extremadamente listo y si historia de personaje es "ah si, tuve que huir de mi pais porque querían usar mi ciencia para el mal". A parte, HE IS A DIVA. 
 
- Una de las razones por las que más me gusta jugar con weaver es que tengo la posibilidad de jalar a los personajes y sacarnos de una situación en la que claramente no pensaron al meterse. 
+Una de las razones por las que más me gusta jugar con weaver es que tengo la posibilidad de jalar a los personajes y sacarnos de una situación en la que claramente no pensaron al meterse. 
 
 * Lucio
   ![Lucio]({{ "/assets/images/OW/Healers/Lucio.webp" | relative_url }}) 
