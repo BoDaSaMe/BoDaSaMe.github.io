@@ -102,7 +102,7 @@ Es super bonita y buena onda. Tiene una historia de origen de la chingada y me g
 
 
 * Reaper 
-  ![Reaper]({{ "/assets/images/OW/DPS/Reaper.png" | relative_url }})
+  ![Reaper]({{ "/assets/images/OW/DPS/Reaper.jpg" | relative_url }})
 
   Primero que nada, es un mexicano homosexual el cual cortó con su novio y desde ahí lo hizo problemas de todos. Me gusta mucho su jugabilidad y sus skins, la verdad es que tienen muchas skins geniales como la de cuervo. 
 
@@ -114,11 +114,12 @@ Es super bonita y buena onda. Tiene una historia de origen de la chingada y me g
 Está guapa, está mamada, es una soldado egipcia y su mamá está que te cagas de lo genial (no guapa, jugabilidad). La uso mucho porque puede volar por los aires y tira misiles. La verdad es que por alguna razón tengo buen tino con ella y hago muchas kills. 
 
 * Symmetra 
- ![Symmetra]({{ "/assets/images/OW/DPS/symmetra.webp" | relative_url }})  
 
- Symmetra tiene una historia cabroncisima en jugabilidad en ow. Comenzó siendo una healer y luego la cambiaron a DPS, le hicieron un rework completo, sin embargo, la base del personaje sigue igual. Es un personaje con el que tienes que hacer uns estrategia cabrona y posicionar las torretitas en el punto óptimo en el que hagan más daño y sean difíciles de quitar. 
+  ![Symmetra]({{ "/assets/images/OW/DPS/symmetra.webp" | relative_url }})  
 
- Es muy muy buena para mantener presión de puntos y defensa de cargas. Aparte historicamente es una mujer excesivamente inteligente y me encanta. 
+Symmetra tiene una historia cabroncisima en jugabilidad en ow. Comenzó siendo una healer y luego la cambiaron a DPS, le hicieron un rework completo, sin embargo, la base del personaje sigue igual. Es un personaje con el que tienes que hacer uns estrategia cabrona y posicionar las torretitas en el punto óptimo en el que hagan más daño y sean difíciles de quitar. 
+
+Es muy muy buena para mantener presión de puntos y defensa de cargas. Aparte historicamente es una mujer excesivamente inteligente y me encanta. 
 
 ### Healers
 
