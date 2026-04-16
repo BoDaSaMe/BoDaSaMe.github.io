@@ -3,7 +3,7 @@ layout: post
 title:  "Yo sé que no tengo una gran memoria"
 author: Aranza
 categories: [ Memoria, Amor ]
-image: assets/images/OW/Memoria.jpg
+
 ---
 
 Yo sé que hay muchas veces que te frustras porque no tengo una gran memoria o porque parece que no te presto atención, pero de verdad sí me importas y cada vez que hay algo nuevo que necesito recordar o que es algo super importente entonces lo anoto en mi teléfono. 
