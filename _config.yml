@@ -2,7 +2,7 @@
 name: "Memorias"
 title: "Aniversario"
 description: "Feliz aniversario, mi vida. Esta página es una recolección de memorias que tengo de ti."
-logo: 'assets/images/logo.png'
+logo: '/assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: "https://bodasame.github.io"
 baseurl: ""
