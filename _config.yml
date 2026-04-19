@@ -20,13 +20,13 @@ authors:
     display_name: Aranza
     avatar: '/assets/images/foto_mia.jpeg'
     email: bodasame27724@gmail.com
-    description: "Alguien que te ama mucho y quiere compartir sus memorias contigo."
+    description: "Alguien que te ama mucho y quiere compartir todo contigo."
   Boris:
     name: Boris
     display_name: Bochan   
     avatar: '/assets/images/foto boris.jpeg'
     email: bodasame27724@gmail.com
-    description: "Alguien que cree que no sé nada de ella, pero en realidad sé mucho."
+    description: "Alguien que se merece mucho más"
 
 # Plugins
 plugins:
