@@ -3,7 +3,7 @@ layout: post
 title:  "Lugares que quiero visitar contigo"
 author: Aranza
 categories: [ Travel, Dates ]
-image: assets/images/Cafeteria.jpg
+image: assets/images/VeganRamenMei.jpg
 ---
 
 Estos son restaurantes que he visto que son vegetarianos o veganos y/o que tienen opciones de comida que creo que te van a gustar. Algunos ya los he visitado y otros la verdad es que no, pero podríamos tener citas foodies para probarlos. 
