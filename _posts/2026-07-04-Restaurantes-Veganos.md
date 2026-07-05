@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Lugares que quiero visitar contigo"
+title:  "Restaurantes Vegatarianos/Veganos por visitar"
 author: Aranza
-categories: [ Travel, Dates ]
+categories: [ Food, Dates ]
 image: assets/images/VeganRamenMei.jpg
 ---
 
