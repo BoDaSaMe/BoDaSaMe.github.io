@@ -50,7 +50,7 @@ No sé por qué siempre me imagino cosas así, tal vez vienen de muchas series, 
 
 ### Nihilist Blues - Bring me the horizon ft. Grimes
 
-![Nihilis]({{ "/assets/images/Canciones/Nihilist_Blues.jpg" | relative_url }})
+![Nihilis]({{ "/assets/images/Canciones/NihilistBlues.jpg" | relative_url }})
 
 Esta canción me hace correr, pero porque el drop de la música me dan muchas ganas de correr. Cuando voy al gimnasio y me estoy animando a correr usualmente comienza porque puse esta canción. Lloro el día en el que Grimes conoció a Elon Musk y le chupó toda la energía y genialosidad de producción musical. 
 
