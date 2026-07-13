@@ -56,3 +56,5 @@ Solo es muy muy estética, pero por otra cosa no creo que valga la pena ir. Sien
 Ya habíamos dicho sobre visitar este lugar. Está muy cerca de mi casa y busqué qué había y pensé que sí podría ser agradable para las dos. También es el dr simi entonces sé que te gustaría mucho. 
 
 Definitivamente quiero probar el afogato de tabasco y el chocolatín (me gustan los chocolatines). Creo que también te gustaría porque tienen varias opciones de leches digitales. 
+
+

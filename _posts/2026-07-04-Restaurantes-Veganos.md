@@ -2,7 +2,7 @@
 layout: post
 title:  "Restaurantes Vegatarianos/Veganos por visitar"
 author: Aranza
-categories: [ Food, Dates ]
+categories: [Food, Dates ]
 image: assets/images/VeganRamenMei.jpg
 ---
 
@@ -29,11 +29,14 @@ Esta es una panadería que es 100% vegana. Tienen los panes de masa madre y los 
 
 Puse a las dos en este mismo porque I quit Bakery también es una panadería vegana y he querido probarla cuando hago dietas para reducir mi consumo de harinas y panes normales (sé que es otro tipo de harina), pero soy un alma bastante debil. 
 
+### Dragon Seitan Wok 
+
+Este lo vi en tiktok. Este es un puesto de comida china que tiene la mitad o varias comidas "plant base" o "not meat" entonces podrías tener todo el sabor de la comida china y que sea vegana. También tienen paquetes de comida de sanrio que son veganos y que son para llevar. Creo que vale la pena ir a probarlos para ver qué tal está y que no solo sean bolas de arroz chino. 
+
+Venden desde no pollo en salsa de piña, pays de manzana con plant base, galletas de la fortuna. Lo "vegan sanrio" son comida como carne de soya. No lo he probado, me salió en tiktok porque he estado viendo más videos de comida vegetariana o vegana en cdmx. 
 
 
 
 Ya fuera de los restaurantes veganos y del hecho que sea una buena experiencia, me importa mucho que puedas tener más opciones de comida que no sean aquellas que se encuentran en el menú infantil. Yo sé que me has dicho que estás feliz con esas opciones y que las comes porque es lo que hay en Chihuahua, pero acá no es así. 
 
-Hay supermercados, restaurantes, compañías, etc. dedicados a comida organica, natural y/vegana. No quiero que comas las cosas porque es la opción que tienes o porque las has comido toda la vida y ya se te hacen ricas. Quiero que tengas opciones y que puedas elegir entre más de 5 platillos todos los días. 
-
-Tal vez suena muy exagerado de mi parte o creo que solo tienes 15 opciones cuando en realidad tienes 99. Si en algún punto tienes 100 opciones, entonces con eso me bastará. 
+Hay supermercados, restaurantes, compañías, etc. dedicados a comida organica, natural y/vegana. No quiero que comas las cosas porque es la opción que tienes o porque las has comido toda la vida y ya se te hacen ricas. Quiero conocer más opciones en la Ciudad de México para que tengamos más posibilidades de comida cuando vivamos juntas. 

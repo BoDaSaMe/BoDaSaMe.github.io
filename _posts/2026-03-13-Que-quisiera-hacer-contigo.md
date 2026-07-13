@@ -44,3 +44,15 @@ Aún no sé si hacerlo de día o de noche, pero quisiera subirnos a una ruta de 
 
 No quiero que te quedes en la básico si no también viajar por Coyoacán, Insurgentes, Reforma o San Ángel y disfrutes lo que es la belleza de la CDMX. 
 
+### Cafetería de frutas mimeticas 
+
+Son los postres de frutas que te he dicho que quería probar. Me salió en tiktok un lugar el 12 de julio y vine a actualizar esto. Me puse a revisar el perfil y la cafetería y ver qué onda. Son pedidos y se deben de hacer con antelación, pero podemos planearlo muy bien para si probar unas buenos postres. 
+
+Los postres son de mínimo 2 piezas y el chef a cargo es "Artiro Salinas" y el instagram del lugar es: arturoshz por si quieres revisarlo (bueno el perfil). Tienen mucho más postres y la verdad se ven buenos. Aparte no solo tienen las frutas miméticas sino que también tienen panecitos u otros dulces. De todos modos ya guardé la información en un tiktok. 
+
+### Pruebas de pasteles de boda 
+
+Esta idea no es mía, tú me la dijiste y la verdad se me hace buena idea. Solo quise ponerla aquí porque siento que en un futuro será un "oye y qué hacemos?" y podríamos venir a buscar ideas. Aunque creo que sí se tiene que hacer bajo cita y con antelación, etc. pero podemos buscar pastelerías en donde las hagan. 
+
+También podríamos armar nuestra propia caja de postres como "postres que queremos que la otra pruebe" y hacernos pruebas a ojos cerrados. Solo es una idea, podemos hacer ambos planes. 
+
